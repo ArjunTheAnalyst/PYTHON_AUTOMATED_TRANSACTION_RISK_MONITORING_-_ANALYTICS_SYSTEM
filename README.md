@@ -64,3 +64,8 @@ automated-transaction-risk-monitoring/
 
 6️⃣ Reporting<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Displays summarized analytical outputs.<br>
+
+## 📸 Sample Output
+**📊 Merchant Performance Summary**<br>
+![Image_1](images/01_image.png)
+
