@@ -69,3 +69,5 @@ automated-transaction-risk-monitoring/
 **📊 Merchant Performance Summary**<br>
 ![Image_1](images/01_image.png)
 
+**👤 Customer Activity Summary**<br>
+![Image_2](images/02_image.png)
