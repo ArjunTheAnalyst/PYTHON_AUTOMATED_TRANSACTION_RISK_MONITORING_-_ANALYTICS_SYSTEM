@@ -71,3 +71,6 @@ automated-transaction-risk-monitoring/
 
 **👤 Customer Activity Summary**<br>
 ![Image_2](images/02_image.png)
+
+**🚨 High-Risk Entity Transaction Activity**
+![Image_3](images/03_image.png)
