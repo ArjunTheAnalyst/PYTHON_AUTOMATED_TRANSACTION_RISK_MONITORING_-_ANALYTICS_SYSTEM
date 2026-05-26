@@ -25,7 +25,7 @@ Tracks customer behavior using:<br>
 **🕒 4. Temporal Data Processing**<br>
 Converts transaction timestamps into structured date fields for analysis.
 
-**⚠️ 5. High-Risk Entity Monitoring**
+**⚠️ 5. High-Risk Entity Monitoring**<br>
 Matches transactions against a predefined high-risk reference list.
 
 **📈 6. Automated Reporting Output**
