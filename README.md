@@ -28,7 +28,7 @@ Converts transaction timestamps into structured date fields for analysis.
 **⚠️ 5. High-Risk Entity Monitoring**<br>
 Matches transactions against a predefined high-risk reference list.
 
-**📈 6. Automated Reporting Output**
+**📈 6. Automated Reporting Output**<br>
 Displays analytical summaries for operational review.
 
 ## 🛠️ Tech Stack
