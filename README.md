@@ -32,8 +32,8 @@ Matches transactions against a predefined high-risk reference list.
 Displays analytical summaries for operational review.
 
 ## 🛠️ Tech Stack
-&nbsp;&nbsp;&nbsp;&nbsp;• 🐍 Python
-&nbsp;&nbsp;&nbsp;&nbsp;• 🐼 Pandas
+&nbsp;&nbsp;&nbsp;&nbsp;• 🐍 Python<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• 🐼 Pandas<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• 📁 OS Module
 
 ## 📁 Project Structure
