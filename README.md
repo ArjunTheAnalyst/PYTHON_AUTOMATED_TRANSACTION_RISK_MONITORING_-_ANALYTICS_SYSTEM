@@ -92,4 +92,4 @@ This project strengthened my understanding of:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Compliance operations<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Financial data intelligence
 
-View notebook with detailed steps here:
+View notebook with detailed steps here: [Automated Transaction Risk Monitoring & Analytics System](PYTHON_AUTOMATED_TRANSACTION_RISK_MONITORING_-_ANALYTICS_SYSTEM.ipynb)
