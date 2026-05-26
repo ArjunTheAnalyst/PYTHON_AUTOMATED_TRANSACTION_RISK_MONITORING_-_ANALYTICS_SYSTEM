@@ -74,3 +74,22 @@ automated-transaction-risk-monitoring/
 
 **🚨 High-Risk Entity Transaction Activity**
 ![Image_3](images/03_image.png)
+
+## 🎯 Key Learning Outcomes
+This project strengthened my understanding of:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Data ingestion pipelines
+&nbsp;&nbsp;&nbsp;&nbsp;• Transaction analytics
+&nbsp;&nbsp;&nbsp;&nbsp;• Risk monitoring workflows
+&nbsp;&nbsp;&nbsp;&nbsp;• Data aggregation with Pandas
+&nbsp;&nbsp;&nbsp;&nbsp;• Temporal data transformation
+&nbsp;&nbsp;&nbsp;&nbsp;• Automated analytical reporting
+
+## 🌍 Real-World Applications
+&nbsp;&nbsp;&nbsp;&nbsp;• This system can support:
+&nbsp;&nbsp;&nbsp;&nbsp;• Fraud detection workflows
+&nbsp;&nbsp;&nbsp;&nbsp;• Transaction monitoring
+&nbsp;&nbsp;&nbsp;&nbsp;• Risk analytics
+&nbsp;&nbsp;&nbsp;&nbsp;• Compliance operations
+&nbsp;&nbsp;&nbsp;&nbsp;• Financial data intelligence
+
+View notebook with detailed steps here:
