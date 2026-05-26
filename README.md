@@ -18,9 +18,9 @@ Generates merchant-level metrics such as:<br>
 
 **👤 3. Customer Activity Analysis**<br>
 Tracks customer behavior using:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• Transaction frequency
-&nbsp;&nbsp;&nbsp;&nbsp;• Total transaction value
-&nbsp;&nbsp;&nbsp;&nbsp;• Active transaction days
+&nbsp;&nbsp;&nbsp;&nbsp;• Transaction frequency<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Total transaction value<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Active transaction days<br>
 
 **🕒 4. Temporal Data Processing**<br>
 Converts transaction timestamps into structured date fields for analysis.
